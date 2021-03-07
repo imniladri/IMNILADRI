@@ -1,11 +1,9 @@
-## Hi!, I'm Niladri Mondal 👋
+## Hi!, I'm Niladri Mondal
 
 ### I'm a Student & Creative Developer and Designer!!
 
-- 👋 @imniladri
-- 👀 I’m interested in Creativeness.
-- 🌱 I’m currently learning React Framework.
-- 📫 Reach me at JGEC.
+#### I’m interested in Creativeness.
+#### Reach me at JGEC.
 
 <hr/>
 
@@ -21,8 +19,4 @@
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
 
 <br/>
-<hr/>
-
-<img width="100" src="https://github.com/Gradients/awesome-gradient/raw/master/README/awesome.png">
-
 <hr/>
