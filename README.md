@@ -7,7 +7,7 @@
 ### [<img align="left" alt="Niladri Mondal | Skype" width="30px" src="./assets/skype.png" />]()
 ### [<img align="left" alt="Niladri Mondal | Linkedin" width="30px" src="./assets/linkedin.png" />]()
 ### [<img align="left" alt="Niladri Mondal | Telegram" width="30px" src="./assets/telegram.png" />]()
-### [<img align="left" alt="Niladri Mondal | Website" width="30px" src="./assets/website.png" />]()
+### [<img align="left" alt="Niladri Mondal | Website" width="30px" src="./assets/mywww.png" />]()
 
 <br/>
 <br/>
