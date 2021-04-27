@@ -2,12 +2,12 @@
 
 **_[@imniladri](https://github.com/imniladri)_**
 
-### [<img align="left" alt="Niladri Mondal | Codepen" width="30px" src="./assets/codepen.png" />]()
-### [<img align="left" alt="Niladri Mondal | Discord" width="30px" src="./assets/discord.png" />]()
-### [<img align="left" alt="Niladri Mondal | Skype" width="30px" src="./assets/skype.png" />]()
-### [<img align="left" alt="Niladri Mondal | Linkedin" width="30px" src="./assets/linkedin.png" />]()
-### [<img align="left" alt="Niladri Mondal | Telegram" width="30px" src="./assets/telegram.png" />]()
-### [<img align="left" alt="Niladri Mondal | Website" width="30px" src="./assets/mywww.png" />]()
+### [<img align="left" alt="Niladri Mondal | Codepen" width="30px" src="./assets/codepen.png" />](https://codepen.io/imniladri/)
+### [<img align="left" alt="Niladri Mondal | Discord" width="30px" src="./assets/discord.png" />](https://discord.gg/Kkksbu4BtV)
+### [<img align="left" alt="Niladri Mondal | Skype" width="30px" src="./assets/skype.png" />](https://join.skype.com/invite/yVNtca8pbNzE)
+### [<img align="left" alt="Niladri Mondal | Linkedin" width="30px" src="./assets/linkedin.png" />](https://www.linkedin.com/in/imniladrimondal/)
+### [<img align="left" alt="Niladri Mondal | Telegram" width="30px" src="./assets/telegram.png" />](https://t.me/imniladrimondal/)
+### [<img align="left" alt="Niladri Mondal | Website" width="30px" src="./assets/mywww.png" />](https://imniladri.in/)
 
 <br/>
 <br/>
