@@ -50,11 +50,9 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imniladri&theme=vue" />
 
 <br/>
-<br/>
 
 <img align="center" alt="GitHub Profile | Banner" src="./assets/github-banner.png" />
 
-<br/>
 <br/>
 
 <img align="center" alt="GitHub Profile | Signature" width="200px" src="./assets/signature.png" />
