@@ -37,7 +37,9 @@
 
 <br/>
 <br/>
-<br/>
+<hr/>
+
+### Github Stats:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=imniladri&count_private=true&show_icons=true&theme=default" />
 
@@ -47,6 +49,14 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imniladri&theme=vue" />
 
-<img align="center" src="./assets/github-banner.png" />
+<br/>
+<br/>
+
+<img align="center" alt="GitHub Profile | Banner" src="./assets/github-banner.png" />
+
+<br/>
+<br/>
+
+<img align="center" alt="GitHub Profile | Signature" width="200px" src="./assets/signature.png" />
 
 --_Thank You_--
