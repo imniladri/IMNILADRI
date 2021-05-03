@@ -46,7 +46,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=imniladri&count_private=true&show_icons=true&theme=react" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=imniladri&theme=react" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=imniladri&theme=vue" />
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=imniladri&theme=react&layout=compact" /> -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imniladri&layout=compact&theme=react&count_private=false" />
