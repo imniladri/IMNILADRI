@@ -31,6 +31,7 @@
 <img align="left" alt="Javascript" width="40px" src="./assets/javascript.png" />
 <img align="left" alt="Jquery" width="40px" src="./assets/jquery.png" />
 <img align="left" alt="React" width="40px" src="./assets/react.png" />
+<img align="left" alt="Sass" width="40px" src="./assets/sass.png" />
 <img align="left" alt="Git" width="40px" src="./assets/git.png" />
 <img align="left" alt="GitHub" width="40px" src="./assets/github.png" />
 <img align="left" alt="Netlify" width="40px" src="./assets/netlify.png" />
