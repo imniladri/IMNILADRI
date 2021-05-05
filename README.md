@@ -1,5 +1,5 @@
-## Hi!, I'm Niladri Mondal
-
+# Hi!, I'm Niladri Mondal
+## I'm a Student & Creative Front End Developer!!
 **_[@imniladri](https://github.com/imniladri)_**
 
 ### [<img align="left" alt="Niladri Mondal | Codepen" width="30px" src="./assets/codepen.png" />](https://codepen.io/imniladri/)
@@ -12,14 +12,14 @@
 <br/>
 <br/>
 
-### I'm a Student & Creative Developer and Designer!!
+### About Me:
 
-- 👨🏻‍🎓 Currently pursuing my B.Tech in EE.
-- 🔭 I’m currently working on React.
-- 🌱 I’m currently learning React.
-- 👯 I’m interested in Creative Projects.
-- 🥅 I want to Contribute more to Open Source & Web projects.
-- 📫 Reach me at JGEC, India.
+- 👨🏻‍🎓 **Currently pursuing my B.Tech in EE.**
+- 🔭 **I’m currently working on React.**
+- 🌱 **I’m currently learning React.**
+- 👯 **I’m interested in Creative Projects.**
+- 🥅 **I want to Contribute more to Open Source & Web projects.**
+- 📫 **Reach me at JGEC, India.**
 
 <hr/>
 
