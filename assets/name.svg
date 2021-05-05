@@ -1,0 +1,23 @@
+<svg id="Name" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 494.05 50.13">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 45px;
+        fill: #282d35;
+        font-family: Rubik-SemiBold, Rubik;
+        font-weight: 600;
+        letter-spacing: 0.03em;
+      }
+
+      .cls-2 {
+        letter-spacing: 0.04em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0.02em;
+      }
+    </style>
+  </defs>
+  <title>Name</title>
+  <text class="cls-1" transform="translate(0 38.25)">H<tspan class="cls-2" x="34.29" y="0">i</tspan><tspan x="48.64" y="0">!, I</tspan><tspan class="cls-3" x="101.83" y="0">&apos;</tspan><tspan x="113.4" y="0">m Niladri Mondal</tspan></text>
+</svg>
