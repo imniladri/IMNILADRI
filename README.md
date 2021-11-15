@@ -33,19 +33,19 @@
 
 ## Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="45" src="/assets/tools/visual-studio.png" />
-<img align="left" alt="HTML5" width="45" src="/assets/tools/html-5.png" />
-<img align="left" alt="CSS3" width="45" src="/assets/tools/css-3.png" />
-<img align="left" alt="Javascript" width="45" src="/assets/tools/javascript.png" />
-<img align="left" alt="Jquery" width="45" src="/assets/tools/jquery.png" />
-<img align="left" alt="React" width="45" src="/assets/tools/react.png" />
-<img align="left" alt="Next" width="85" src="/assets/tools/nextjs.png" />
-<img align="left" alt="Sass" width="45" src="/assets/tools/sass.png" />
-<img align="left" alt="Git" width="45" src="/assets/tools/git.png" />
-<img align="left" alt="GitHub" width="45" src="/assets/tools/github.png" />
-<img align="left" alt="SVG" width="45" src="/assets/tools/svg.png" />
-<img align="left" alt="Adobe Illustrator" width="45" src="/assets/tools/illustrator.png" />
-<img align="left" alt="Adobe XD" width="45" src="/assets/tools/xd.png" />
+<img align="left" alt="Visual Studio Code" width="40" src="/assets/tools/visual-studio.png" />
+<img align="left" alt="HTML5" width="40" src="/assets/tools/html-5.png" />
+<img align="left" alt="CSS3" width="40" src="/assets/tools/css-3.png" />
+<img align="left" alt="Javascript" width="40" src="/assets/tools/javascript.png" />
+<img align="left" alt="Jquery" width="40" src="/assets/tools/jquery.png" />
+<img align="left" alt="React" width="40" src="/assets/tools/react.png" />
+<img align="left" alt="Next" width="80" src="/assets/tools/nextjs.png" />
+<img align="left" alt="Sass" width="40" src="/assets/tools/sass.png" />
+<img align="left" alt="Git" width="40" src="/assets/tools/git.png" />
+<img align="left" alt="GitHub" width="40" src="/assets/tools/github.png" />
+<img align="left" alt="SVG" width="40" src="/assets/tools/svg.png" />
+<img align="left" alt="Adobe Illustrator" width="40" src="/assets/tools/illustrator.png" />
+<img align="left" alt="Adobe XD" width="40" src="/assets/tools/xd.png" />
 
 <br/>
 <br/>
