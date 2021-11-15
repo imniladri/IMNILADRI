@@ -1,65 +1,69 @@
 # Hi!, I'm Niladri Mondal
-## I'm a Student & Creative Front End Developer!!
-**_[@imniladri](https://github.com/imniladri)_**
 
-### [<img align="left" alt="Niladri Mondal | Codepen" width="30px" src="./assets/codepen.png" />](https://codepen.io/imniladri/)
-### [<img align="left" alt="Niladri Mondal | Discord" width="30px" src="./assets/discord.png" />](https://discord.gg/Kkksbu4BtV)
-### [<img align="left" alt="Niladri Mondal | Skype" width="30px" src="./assets/skype.png" />](https://join.skype.com/invite/yVNtca8pbNzE)
-### [<img align="left" alt="Niladri Mondal | Linkedin" width="30px" src="./assets/linkedin.png" />](https://www.linkedin.com/in/imniladrimondal/)
-### [<img align="left" alt="Niladri Mondal | Telegram" width="30px" src="./assets/telegram.png" />](https://t.me/imniladrimondal/)
-### [<img align="left" alt="Niladri Mondal | Website" width="30px" src="./assets/mywww.png" />](https://imniladri.in/)
+## I'm a Creative | Front End | CSS | React | Developer & Web Animator!!
+
+### [<img align="left" alt="Niladri Mondal | Github" width="30px" src="/assets/icons/-github.svg" />](https://github.com/imniladri)
+
+### [<img align="left" alt="Niladri Mondal | Linkedin" width="30px" src="/assets/icons/-linkedin.svg" />](https://www.linkedin.com/in/imniladrimondal/)
+
+### [<img align="left" alt="Niladri Mondal | Dev To" width="30px" src="/assets/icons/-dev.svg" />](https://dev.to/imniladri)
+
+### [<img align="left" alt="Niladri Mondal | Twitter" width="30px" src="/assets/icons/-twitter.svg" />](https://twitter.com/imniladrimondal)
+
+### [<img align="left" alt="Niladri Mondal | Codepen" width="30px" src="/assets/icons/-codepen.svg" />](https://codepen.io/imniladri/)
+
+### [<img align="left" alt="Niladri Mondal | Discord" width="30px" src="/assets/icons/-discord.svg" />](https://discord.gg/Kkksbu4BtV)
+
+### [<img align="left" alt="Niladri Mondal | Portfolio" width="30px" src="/assets/icons/-portfolio.svg" />](https://imniladri.in/)
 
 <br/>
 <br/>
 
-### About Me:
+## About Me:
 
-- 👨🏻‍🎓 **Currently pursuing my B.Tech in EE.**
-- 🔭 **I’m currently working on React.**
-- 🌱 **I’m currently learning React.**
-- 👯 **I’m interested in Creative Projects.**
-- 🥅 **I want to Contribute more to Open Source & Web projects.**
-- 📫 **Reach me at JGEC, India.**
+-   👨🏻‍🎓 **Currently pursuing my B.Tech in EE.**
+-   🔭 **I’m currently working on React.**
+-   🌱 **I’m currently learning React.**
+-   👯 **I’m interested in Creative Projects.**
+-   🥅 **I want to Contribute more to Open Source & Web projects.**
+-   📫 **Reach me at JGEC, India.**
 
 <hr/>
 
-### Languages and Tools:
+## Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="40px" src="./assets/visual-studio.png" />
-<img align="left" alt="HTML5" width="40px" src="./assets/html-5.png" />
-<img align="left" alt="CSS3" width="40px" src="./assets/css-3.png" />
-<img align="left" alt="Javascript" width="40px" src="./assets/javascript.png" />
-<img align="left" alt="Jquery" width="40px" src="./assets/jquery.png" />
-<img align="left" alt="React" width="40px" src="./assets/react.png" />
-<img align="left" alt="Sass" width="40px" src="./assets/sass.png" />
-<img align="left" alt="Git" width="40px" src="./assets/git.png" />
-<img align="left" alt="GitHub" width="40px" src="./assets/github.png" />
-<img align="left" alt="Netlify" width="40px" src="./assets/netlify.png" />
-<img align="left" alt="SVG" width="40px" src="./assets/svg.png" />
-<img align="left" alt="Adobe Illustrator" width="40px" src="./assets/illustrator.png" />
-<img align="left" alt="Adobe XD" width="40px" src="./assets/xd.png" />
+<img align="left" alt="Visual Studio Code" width="40px" src="/assets/tools/visual-studio.png" />
+<img align="left" alt="HTML5" width="40px" src="/assets/tools/html-5.png" />
+<img align="left" alt="CSS3" width="40px" src="/assets/tools/css-3.png" />
+<img align="left" alt="Javascript" width="40px" src="/assets/tools/javascript.png" />
+<img align="left" alt="Jquery" width="40px" src="/assets/tools/jquery.png" />
+<img align="left" alt="React" width="40px" src="/assets/tools/react.png" />
+<img align="left" alt="Next" width="40px" src="/assets/tools/nextjs.png" />
+<img align="left" alt="Sass" width="40px" src="/assets/tools/sass.png" />
+<img align="left" alt="Git" width="40px" src="/assets/tools/git.png" />
+<img align="left" alt="GitHub" width="40px" src="/assets/tools/github.png" />
+<img align="left" alt="SVG" width="40px" src="/assets/tools/svg.png" />
+<img align="left" alt="Adobe Illustrator" width="40px" src="/assets/tools/illustrator.png" />
+<img align="left" alt="Adobe XD" width="40px" src="/assets/tools/xd.png" />
 
 <br/>
 <br/>
 <hr/>
 
-### Github Stats:
+## Github Stats:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=imniladri&count_private=true&show_icons=true&theme=react" />
+<div align="center">
+<img align="center" width="480" src="https://github-readme-stats.vercel.app/api?username=imniladri&count_private=true&show_icons=true&theme=react" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=imniladri&theme=vue" />
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=imniladri&theme=react&layout=compact" /> -->
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imniladri&layout=compact&theme=react&count_private=false" />
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imniladri&theme=react" />
+<img align="center" width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=imniladri&theme=react" />
+</div>
 
 <br/>
 
-<img align="center" alt="GitHub Profile | Banner" src="./assets/github-banner.png" />
+<img align="center" width="1000" src="https://activity-graph.herokuapp.com/graph?username=imniladri&theme=react-dark" />
 
-<br/>
+<img align="center" width="1000" alt="GitHub Profile | Banner" src="/assets/github-banner.png" />
 
-<img align="center" alt="GitHub Profile | Signature" width="200px" src="./assets/signature.png" />
+<img align="center" width="580" src="https://github-readme-stats.vercel.app/api/wakatime?username=imniladri&theme=react&layout=compact" />
 
---_Thank You_--
+<img align="center" alt="GitHub Profile | Signature" width="280" src="/assets/signature.png" />
