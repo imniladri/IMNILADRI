@@ -2,20 +2,21 @@
 
 ## I'm a Creative | Front End | CSS | React | Developer & Web Animator!!
 
-### [<img align="left" alt="Niladri Mondal | Github" src="/assets/icons/-github.svg" />](https://github.com/imniladri)
+[<img align="left" alt="Niladri Mondal | Github" src="/assets/icons/-github.svg" />](https://github.com/imniladri)
 
-### [<img align="left" alt="Niladri Mondal | Linkedin" src="/assets/icons/-linkedin.svg" />](https://www.linkedin.com/in/imniladrimondal/)
+[<img align="left" alt="Niladri Mondal | Linkedin" src="/assets/icons/-linkedin.svg" />](https://www.linkedin.com/in/imniladrimondal/)
 
-### [<img align="left" alt="Niladri Mondal | Dev To" src="/assets/icons/-dev.svg" />](https://dev.to/imniladri)
+[<img align="left" alt="Niladri Mondal | Dev To" src="/assets/icons/-dev.svg" />](https://dev.to/imniladri)
 
-### [<img align="left" alt="Niladri Mondal | Twitter" src="/assets/icons/-twitter.svg" />](https://twitter.com/imniladrimondal)
+[<img align="left" alt="Niladri Mondal | Twitter" src="/assets/icons/-twitter.svg" />](https://twitter.com/imniladrimondal)
 
-### [<img align="left" alt="Niladri Mondal | Codepen" src="/assets/icons/-codepen.svg" />](https://codepen.io/imniladri/)
+[<img align="left" alt="Niladri Mondal | Codepen" src="/assets/icons/-codepen.svg" />](https://codepen.io/imniladri/)
 
-### [<img align="left" alt="Niladri Mondal | Discord" src="/assets/icons/-discord.svg" />](https://discord.gg/Kkksbu4BtV)
+[<img align="left" alt="Niladri Mondal | Discord" src="/assets/icons/-discord.svg" />](https://discord.gg/Kkksbu4BtV)
 
-### [<img align="left" alt="Niladri Mondal | Portfolio" src="/assets/icons/-portfolio.svg" />](https://imniladri.in/)
+[<img align="left" alt="Niladri Mondal | Portfolio" src="/assets/icons/-portfolio.svg" />](https://imniladri.in/)
 
+<br/>
 <br/>
 <br/>
 
@@ -52,13 +53,9 @@
 
 ## Github Stats:
 
-<div align="center">
-<img align="center" width="480" src="https://github-readme-stats.vercel.app/api?username=imniladri&count_private=true&show_icons=true&theme=react" />
+<img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=imniladri&count_private=true&show_icons=true&theme=react" />
 
-<img align="center" width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=imniladri&theme=react" />
-</div>
-
-<br/>
+<img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=imniladri&theme=react" />
 
 <img align="center" width="1000" src="https://activity-graph.herokuapp.com/graph?username=imniladri&theme=react-dark" />
 
