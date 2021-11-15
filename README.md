@@ -2,19 +2,19 @@
 
 ## I'm a Creative | Front End | CSS | React | Developer & Web Animator!!
 
-### [<img align="left" alt="Niladri Mondal | Github" width="30px" src="/assets/icons/-github.svg" />](https://github.com/imniladri)
+### [<img align="left" alt="Niladri Mondal | Github" src="/assets/icons/-github.svg" />](https://github.com/imniladri)
 
-### [<img align="left" alt="Niladri Mondal | Linkedin" width="30px" src="/assets/icons/-linkedin.svg" />](https://www.linkedin.com/in/imniladrimondal/)
+### [<img align="left" alt="Niladri Mondal | Linkedin" src="/assets/icons/-linkedin.svg" />](https://www.linkedin.com/in/imniladrimondal/)
 
-### [<img align="left" alt="Niladri Mondal | Dev To" width="30px" src="/assets/icons/-dev.svg" />](https://dev.to/imniladri)
+### [<img align="left" alt="Niladri Mondal | Dev To" src="/assets/icons/-dev.svg" />](https://dev.to/imniladri)
 
-### [<img align="left" alt="Niladri Mondal | Twitter" width="30px" src="/assets/icons/-twitter.svg" />](https://twitter.com/imniladrimondal)
+### [<img align="left" alt="Niladri Mondal | Twitter" src="/assets/icons/-twitter.svg" />](https://twitter.com/imniladrimondal)
 
-### [<img align="left" alt="Niladri Mondal | Codepen" width="30px" src="/assets/icons/-codepen.svg" />](https://codepen.io/imniladri/)
+### [<img align="left" alt="Niladri Mondal | Codepen" src="/assets/icons/-codepen.svg" />](https://codepen.io/imniladri/)
 
-### [<img align="left" alt="Niladri Mondal | Discord" width="30px" src="/assets/icons/-discord.svg" />](https://discord.gg/Kkksbu4BtV)
+### [<img align="left" alt="Niladri Mondal | Discord" src="/assets/icons/-discord.svg" />](https://discord.gg/Kkksbu4BtV)
 
-### [<img align="left" alt="Niladri Mondal | Portfolio" width="30px" src="/assets/icons/-portfolio.svg" />](https://imniladri.in/)
+### [<img align="left" alt="Niladri Mondal | Portfolio" src="/assets/icons/-portfolio.svg" />](https://imniladri.in/)
 
 <br/>
 <br/>
@@ -32,19 +32,19 @@
 
 ## Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="40px" src="/assets/tools/visual-studio.png" />
-<img align="left" alt="HTML5" width="40px" src="/assets/tools/html-5.png" />
-<img align="left" alt="CSS3" width="40px" src="/assets/tools/css-3.png" />
-<img align="left" alt="Javascript" width="40px" src="/assets/tools/javascript.png" />
-<img align="left" alt="Jquery" width="40px" src="/assets/tools/jquery.png" />
-<img align="left" alt="React" width="40px" src="/assets/tools/react.png" />
-<img align="left" alt="Next" width="40px" src="/assets/tools/nextjs.png" />
-<img align="left" alt="Sass" width="40px" src="/assets/tools/sass.png" />
-<img align="left" alt="Git" width="40px" src="/assets/tools/git.png" />
-<img align="left" alt="GitHub" width="40px" src="/assets/tools/github.png" />
-<img align="left" alt="SVG" width="40px" src="/assets/tools/svg.png" />
-<img align="left" alt="Adobe Illustrator" width="40px" src="/assets/tools/illustrator.png" />
-<img align="left" alt="Adobe XD" width="40px" src="/assets/tools/xd.png" />
+<img align="left" alt="Visual Studio Code" width="45" src="/assets/tools/visual-studio.png" />
+<img align="left" alt="HTML5" width="45" src="/assets/tools/html-5.png" />
+<img align="left" alt="CSS3" width="45" src="/assets/tools/css-3.png" />
+<img align="left" alt="Javascript" width="45" src="/assets/tools/javascript.png" />
+<img align="left" alt="Jquery" width="45" src="/assets/tools/jquery.png" />
+<img align="left" alt="React" width="45" src="/assets/tools/react.png" />
+<img align="left" alt="Next" width="85" src="/assets/tools/nextjs.png" />
+<img align="left" alt="Sass" width="45" src="/assets/tools/sass.png" />
+<img align="left" alt="Git" width="45" src="/assets/tools/git.png" />
+<img align="left" alt="GitHub" width="45" src="/assets/tools/github.png" />
+<img align="left" alt="SVG" width="45" src="/assets/tools/svg.png" />
+<img align="left" alt="Adobe Illustrator" width="45" src="/assets/tools/illustrator.png" />
+<img align="left" alt="Adobe XD" width="45" src="/assets/tools/xd.png" />
 
 <br/>
 <br/>
