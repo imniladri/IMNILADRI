@@ -8,11 +8,11 @@
 
 [<img align="left" alt="Niladri Mondal | Dev To" src="/assets/icons/-dev.svg" />](https://dev.to/imniladri)
 
+[<img align="left" alt="Niladri Mondal | Skype" src="/assets/icons/-skype.svg" />](https://join.skype.com/invite/x4ZrtKrM5uyv)
+
 [<img align="left" alt="Niladri Mondal | Twitter" src="/assets/icons/-twitter.svg" />](https://twitter.com/imniladrimondal)
 
 [<img align="left" alt="Niladri Mondal | Codepen" src="/assets/icons/-codepen.svg" />](https://codepen.io/imniladri/)
-
-[<img align="left" alt="Niladri Mondal | Discord" src="/assets/icons/-discord.svg" />](https://discord.gg/Kkksbu4BtV)
 
 [<img align="left" alt="Niladri Mondal | Portfolio" src="/assets/icons/-portfolio.svg" />](https://imniladri.in/)
 
