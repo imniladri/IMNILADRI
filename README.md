@@ -1,6 +1,6 @@
 # Hi!, I'm Niladri Mondal
 
-## I'm a Creative | Front End | CSS | React | Developer & Web Animator!!
+## A Creative Full Stack & Java Developer with interest in Web Animation.
 
 [<img align="left" alt="Niladri Mondal | Github" src="/assets/icons/-github.svg" />](https://github.com/imniladri)
 
@@ -22,12 +22,11 @@
 
 ## About Me:
 
--   👨🏻‍🎓 **Currently pursuing my B.Tech in EE.**
--   🔭 **I’m currently working on React.**
--   🌱 **I’m currently learning React.**
--   👯 **I’m interested in Creative Projects.**
+-   👨🏻‍🎓 **Currently working as a FTE.**
+-   🔭 **I’m currently working on Spring.**
+-   🌱 **I’m currently learning Spring & Node.**
+-   👯 **I’m interested in Java & JS Projects.**
 -   🥅 **I want to Contribute more to Open Source & Web projects.**
--   📫 **Reach me at JGEC, India.**
 
 <hr/>
 
